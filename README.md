@@ -1,4 +1,4 @@
-Para hacer funcionar la APP debe ejecutar lo siguiente en su terminal:
+Para hacer funcionar la APP tener instalado NODE JS y debe ejecutar lo siguiente en su terminal:
 
 npm install
 
